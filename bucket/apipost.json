@@ -23,7 +23,7 @@
     "persist": "UserData",
     "checkver": {
         "url": "https://www.apipost.cn/download.html",
-        "regex": "适用于Window系统 7.2.6"
+        "regex": "适用于Window系统\s+(\d+\.\d+\.\d+)"
     },
     "autoupdate": {
         "architecture": {
